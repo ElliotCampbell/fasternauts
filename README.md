@@ -1,0 +1,2 @@
+# fasternauts
+A microtransaction simulator
